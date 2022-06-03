@@ -10,6 +10,8 @@
 
 [Data Science Project Scoping Guide](http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/)
 
+[Harvard Dataverse](https://dataverse.harvard.edu)
+
 # Exploratory Data Analysis
 
 [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis/notebook)
