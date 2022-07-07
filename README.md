@@ -19,3 +19,8 @@
 # Statistics
 
 [Logictic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+
+
+# Superviser Learning
+
+[Logictic Regression]
